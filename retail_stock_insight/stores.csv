@@ -1,0 +1,6 @@
+store,city,store_type,customer_count,region
+S001,Coimbatore,Supermarket,850,West
+S002,Chennai,Hypermarket,1450,North
+S003,Madurai,Supermarket,760,South
+S004,Salem,Convenience,420,West
+S005,Trichy,Supermarket,690,Central

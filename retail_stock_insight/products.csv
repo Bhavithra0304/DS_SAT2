@@ -1,0 +1,13 @@
+product,product_name,category,brand,price,shelf_life_days,supplier
+P001,Rice 5kg,Grocery,DailyHarvest,320,365,AgroSupply
+P002,Milk 1L,Dairy,FreshFarm,32,7,DairyLink
+P003,Bread,Bakery,BakeHouse,40,5,CityBakery
+P004,Cooking Oil 1L,Grocery,GoldenDrop,145,240,AgroSupply
+P005,Shampoo 180ml,Personal care,GlowCare,110,730,CareWholesale
+P006,Biscuits,Snacks,Crispy,25,180,SnackRoute
+P007,Eggs 6 Pack,Dairy,FarmNest,48,14,DairyLink
+P008,Detergent 1kg,Home Care,CleanWay,95,540,HomeSupply
+P009,Apple 1kg,produce,OrchardBest,180,10,FreshProduce
+P010,Bottled Water 1L,Beverages,ClearSpring,20,365,BeverageHub
+P011,Yogurt Cup,Dairy,FreshFarm,22,14,DairyLink
+P012,Instant Noodles,Grocery,QuickBite,15,270,SnackRoute
